@@ -1,0 +1,105 @@
+body {
+    background-color: #fff;
+    font-family: Saira Extra Condensed, sans-serif;
+}
+
+.name-style {
+    color: #343a40;
+    font-size: 6rem;
+    font-weight: 800;
+    line-height: 10.5rem;
+    text-align: left;
+}
+
+.picture-style {
+    border-radius: 50%;
+    border: .10rem solid #fff;
+    height: 10rem;
+    width: 10rem;
+}
+
+.title-style {
+    color: #343a40;
+    font-size: 3.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+    text-align: left;
+}
+
+.sub-title-style {
+    color: #343a40;
+    font-size: 2.2rem;
+    font-weight: 800;
+    line-height: 1.2;
+    text-align: left;
+}
+
+.other-title-style {
+    color: #868e96;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.date-style {
+    color: #495057;
+    font-family: Mulish, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: right;
+}
+
+.email-style {
+    color: #495057;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: left;
+    text-decoration: none;
+}
+
+.about-style {
+    color: #868e96;
+    font-family: Mulish, sans-serif;
+    font-size: 1.15rem;
+    font-weight: 200;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.social-icons {
+    background-color: #495057;
+    border-radius: 100%;
+    color: #fff;
+    display: inline-block;
+    font-size: 1.25rem;
+    font-weight: 400;
+    height: 3.5rem;
+    line-height: 3.5rem;
+    margin-right: 1rem;
+    text-align: center;
+    text-decoration: none;
+    width: 3.5rem;
+}
+
+.skill-style {
+    color: #868e96;
+    font-family: Mulish, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: solid;
+    text-align: left;
+}
+
+.scroll-style {
+    color: black;
+    font-family: Mulish, sans-serif;
+    font-size: 1rem;
+    font-weight: 450;
+    line-height: 1.5;
+    letter-spacing: .2rem;
+    text-decoration: none;
+}
