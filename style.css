@@ -103,3 +103,7 @@ body {
     letter-spacing: .2rem;
     text-decoration: none;
 }
+
+div {
+    color: red;
+}
